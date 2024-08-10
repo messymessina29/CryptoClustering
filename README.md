@@ -1,1 +1,2 @@
 # CryptoClustering
+This challenge uses a data set that includes cryptocurrencies and their changes in pricing over different periods of time. Specifically it takes a look at if cryptocurrencies are affected by 24-hour or 7 day price changes using unsuprvised learning techniques such as scaling, segmenting, and principle component analysis. After conducting a PCA on the data, the amount of noise was greatly reduced in the clusters compared to the inital scaled data, and it was more noticeable that cryptocurrency prices were affected by 24 hour and 7 day price changes.
